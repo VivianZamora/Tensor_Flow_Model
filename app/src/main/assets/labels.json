@@ -1,0 +1,50 @@
+[
+  {
+    "identifier": 0,
+    "plateName": "Arroz con leche"
+  },
+  {
+    "identifier": 1,
+    "plateName": "Bolón de verde"
+  },
+  {
+    "identifier": 2,
+    "plateName": "Caldo de salchicha"
+  },
+  {
+    "identifier": 3,
+    "plateName": "Camote"
+  },
+  {
+    "identifier": 4,
+    "plateName": "Cazuela de pescado"
+  },
+  {
+    "identifier": 5,
+    "plateName": "Ceviche de pescado y camaron"
+  },
+  {
+    "identifier": 6,
+    "plateName": "Chaulafan"
+  },
+  {
+    "identifier": 7,
+    "plateName": "Empanada de verde"
+  },
+  {
+  "identifier": 8,
+  "plateName": "Encebollado"
+  },
+  {
+    "identifier": 9,
+    "plateName": "Guatita"
+  },
+  {
+    "identifier": 10,
+    "plateName": "Humita"
+  },
+  {
+    "identifier": 11,
+    "plateName": "Muchin"
+  }
+]
